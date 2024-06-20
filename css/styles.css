@@ -3,3 +3,9 @@
     font-style: italic; 
     font-family: math;
 }
+
+.button {
+    padding: 10px 23px;
+    font-weight: 750;
+}
+
